@@ -1,0 +1,11 @@
+Package: slopeExtractR
+Title: Creates identification functions and extracts slopes from belief-updated normal distributions
+Version: 0.0.0.9000
+Authors@R: person("Nicholas", "Monto", email = "monto.nicholas@gmail.com", role = c("aut", "cre"))
+Description: Package developed in conjunction with manuscript submission.
+Depends: R (>= 3.4.0)
+Imports: beliefupdatr (>= 0.0.3), dplyr (>= 0.7.6), tidyselect (>= 0.2.4)
+License: 
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
